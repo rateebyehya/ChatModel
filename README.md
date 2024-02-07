@@ -1,4 +1,4 @@
-HEY HEY!!!
+## CHAT MODEL: A CONVERSATIONAL QUESTION ANSWERING MODEL in STREAMLIT
 
 🚀 🚀  I just finished my SECOND project with my amazing mentor, SHARATH RAJU, where we built on the first simple project of building a SIMPLE QUESTION ANSWERING model in Streamlit and taking it NEXT LEVEL by incorporating a CONVERSATIONAL STYLE!! Pretty cool huh? 😉 
 
